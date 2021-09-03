@@ -14,3 +14,5 @@ This module is helpful in analysing floodgates (Check the squares where your kin
 Blue denotes the region dominated by White and Red denotes region dominated by Black, note how players never give up center in the beginging
 
 <img width="610" alt="Screenshot 2021-09-03 at 11 34 03 PM" src="https://user-images.githubusercontent.com/17203541/132048528-50ee8d80-a0fa-41cf-a94b-1a2575fb0836.png">
+
+![image](https://user-images.githubusercontent.com/17203541/132049087-fb2300b1-901c-4a3f-a886-b09588858ce3.png)
