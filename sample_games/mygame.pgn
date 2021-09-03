@@ -1,0 +1,33 @@
+[Event "?"]
+[Site "Chess.com"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "1-0"]
+[Termination "illad103 won by checkmate"]
+
+1. e4 d5 2. Nc3 d4 3. Nd5 Nf6 4. Nxf6+ gxf6 5. Nf3 f5 {INACCURACY (+1.29)}
+({(-0.08) The best move was} 5... Nc6 6. Bb5 Qd6 7. O-O a6 8. Bxc6+ Qxc6 9. d3
+e5 10. Nh4 Rg8 11. f4 Bg4 12. Qd2 Qc5 13. fxe5 fxe5 14. Nf3 f6 15. Ne1 O-O-O 16.
+Rxf6 Kb8 17. Rf7 Qb6) 6. Bd3 fxe4 7. Bxe4 Bh6 8. d3 O-O $4 $16 {BLUNDER (+6.29)}
+({(+1.06) The best move was} 8... Bg7 9. Nh4 e6 10. Qh5 Nd7 11. O-O Nf6 12. Qe5
+O-O 13. Bf3 Nd5 14. Qh5 Nf6 15. Qg5 Nd5 16. Qg4 Kh8 17. Qh5 Nf6 18. Qg5 Rg8 19.
+Re1 Qd7 20. h3) 9. Bxh6 Re8 $2 {MISTAKE (+16.63)} ({(+6.37) The best move was}
+9... f5 10. Qc1 e6 11. Qf4 Qf6 12. Bxf8 Qxf8 13. Qxc7 fxe4 14. Nxd4 Na6 15. Qg3+
+Qg7 16. dxe4 Nc5 17. e5 Bd7 18. O-O-O a5 19. Qe3 Rc8 20. Rhe1 b6 21. Kb1 a4) 10.
+Ng5 f6 $4 {BLUNDER (♔ Mate in 7)} ({(+18.32) The best move was} 10... e5 11. Qh5
+Be6 12. Bxh7+ Kh8 13. Be4 f5 14. Nxe6 Rxe6 15. Bg5+ Kg7 16. Bxd8 fxe4 17. Qg5+
+Kh7 18. Qf5+ Rg6 19. Qh5+ Rh6 20. Qf7+ Kh8 21. Bf6+ Rxf6 22. Qxf6+ Kg8 23. Qxe5
+Nc6 24. Qxe4 Kf7 25. Qh7+ Kf6 26. Qxc7) 11. Bxh7+ Kh8 □ 12. Nf7+ Kxh7 □ 13. Nxd8
+Rxd8 14. Qh5 Be6 15. Bf8+ Kg8 □ 16. Bxe7 Rd7 $4 {BLUNDER (♔ Mate in 3)}
+({(+15.00) The best move was} 16... Nd7 17. Qg6+ Kh8 18. Qe4 Nf8 19. Bxf6+ Kg8
+20. Bxd8 Rxd8 21. Qxb7 Rd7 22. Qxa7 Bf7 23. Qc5 Ne6 24. Qe5 c5 25. O-O Rb7 26.
+Rab1 Re7 27. a3 Kh7 28. Rbe1 Kg8 29. f3 Rd7) 17. Qe8+ Kg7 18. Qf8+ Kg6
+{INACCURACY (+23.21)} ({(+14.98) The best move was} 18... Kh7 19. Bxf6 Rf7 20.
+Qh8+ Kg6 21. Be5 Nc6 22. Qxa8 Nxe5 23. Qxb7 Rd7 24. Qe4+ Kf6 25. O-O Ng6 26.
+Rfe1 Bf5 27. Qc6+ Kf7 28. Qc5 Kf6 29. Qxa7 Nf4 30. Qc5 Ng6 31. Re8 Ne7 32. h3
+Kf7) 19. Qxf6+ Kh5 $4 {BLUNDER (♔ Mate in 1)} ({(+24.98) The best move was} 19...
+Kh7 20. Qxe6 Nc6 21. Qxd7 Nxe7 22. Qxe7+ Kh6 23. Qe6+ Kh7 24. Qe4+ Kh6 25. Qf4+
+Kg6 26. Qxc7 Rf8 27. Qxb7 Rf7 28. Qe4+ Kg7 29. Kf1 a5 30. Qxd4+ Kh7 31. Qe4+ Kg7
+32. Qe5+ Kg6 33. Qxa5 Kh7 34. Re1) 20. Qg5# 1-0
